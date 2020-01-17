@@ -8,4 +8,4 @@ f = 208/15
 
 
 
-print(a)wey dycg ehrwycg ry yrg
+print(a)
