@@ -1,11 +1,11 @@
 #!/usr/bin/python
 
-print("hello world, it is me akiva!")
+print("hello world, it is me Aba!")
 
-a = 120/14
+a = 5
 
-f = 208/15
+b = 10
 
 
 
-print(a)wey dycg ehrwycg ry yrg
+print(a * b)
