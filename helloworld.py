@@ -10,7 +10,7 @@ while not int(guess) == magic_number:
 
     guess = imput ("I have chosen a number between 1-20, please try to guess it")
 
-    if int(guess) == magic_number
+    if int(guess) == magic_number:
 
         print ("you guessed it!")
 
