@@ -2,13 +2,13 @@
 
 import random
 
-magic_number = random>randit (1,21)
+magic_number = random.randit (1,21)
 
 guess = 800
 
 while not int(guess) == magic_number:
 
-    guess = imput ("I have chosen a number between 1-20, please try to guess it")
+    guess = input ("I have chosen a number between 1-20, please try to guess it")
 
     if int(guess) == magic_number:
 
