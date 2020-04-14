@@ -6,7 +6,7 @@ import random
 magic_number = random.randint(1,11)
 
 # setting initial guess
-guess = 500
+guess = "poop"
 
 # how many guesses the palyer made so far
 num_guesses = 0
